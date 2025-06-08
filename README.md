@@ -15,3 +15,7 @@ This is a simple version of this classical system.
   - The admin selects a choice
     - Some operation is performed
   - Then the main menu is listed again
+
+
+### Note
+- You have to enter the book name without spaces.
